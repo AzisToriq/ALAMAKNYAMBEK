@@ -48,7 +48,7 @@ Untuk menjalankan proyek demo tertentu di dalam repositori ini, ikuti langkah-la
     ```bash
     composer install
     ```
-    Jalankan Sedder dulu
+    Jalankan Seeder dulu
 
 3.  **Jalankan Server Lokal:**
     *Jika file hanya HTML/CSS/JS:* Buka file `.html` langsung di *browser* Anda.
