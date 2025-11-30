@@ -35,7 +35,7 @@ Untuk menjalankan proyek demo tertentu di dalam repositori ini, ikuti langkah-la
 
 1.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/AzisToriq/demo-aja.git](https://github.com/AzisToriq/demo-aja.git)
+    git clone [https://github.com/AzisToriq/ALAMAKNYAMBEK.git)
     cd demo-aja
     ```
 
