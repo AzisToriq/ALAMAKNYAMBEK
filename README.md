@@ -1,6 +1,6 @@
 # 🚀 ALAMAK NYAMBE DATANG
 
-Selamat datang di repositori **`ALAMAK NYAMBEJ`**!
+Selamat datang di repositori **`ALAMAK NYAMBEK`**!
 
 Repositori ini berfungsi sebagai ruang kerja (workspace) atau proyek demonstrasi untuk berbagai tujuan: uji coba fitur baru, menyimpan *snippet* kode, atau menyajikan contoh implementasi teknologi tertentu.
 
